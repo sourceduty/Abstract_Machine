@@ -56,6 +56,8 @@ Abstract machine models can be categorized into types based on their focus and a
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Automata Sim](https://github.com/sourceduty/Automata_Sim)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
